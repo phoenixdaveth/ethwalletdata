@@ -34,7 +34,7 @@ npm install web3 node-fetch
 To run the script, simply use:
 
 ```bash
-node index.js
+node index.mjs
 ```
 
 ## Output
