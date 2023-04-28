@@ -7,7 +7,7 @@ This is a handy script I wrote to fetch the transaction history of an Ethereum a
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/ethereum-transaction-history.git
+git clone https://github.com/davidphoenix2020/ethwalletdata.git
 
 cd ethereum-transaction-history
 ```
