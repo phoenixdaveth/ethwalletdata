@@ -9,7 +9,7 @@ To get started, clone this repository to your local machine:
 ```bash
 git clone https://github.com/phoenixdaveth/ethwalletdata.git
 
-cd ethereum-transaction-history
+cd ethwalletdata
 ```
 ## Dependencies
 
