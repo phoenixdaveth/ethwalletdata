@@ -1,6 +1,6 @@
 # Ethereum Transaction History and Historical Prices
 
-This is a handy script I wrote to with the help of GPT-4 fetch the transaction history of an Ethereum address and calculate the historical USD value of incoming transactions during a specified time period. It uses the Etherscan API for transaction history and the CryptoCompare API for historical ETH prices.
+This is a handy script I wrote with the help of GPT-4 to fetch the transaction history of an Ethereum address and calculate the historical USD value of incoming transactions during a specified time period. It uses the Etherscan API for transaction history and the CryptoCompare API for historical ETH prices.
 
 ## Clone the Repository
 
