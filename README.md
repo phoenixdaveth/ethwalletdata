@@ -7,7 +7,7 @@ This is a handy script I wrote with the help of GPT-4 to fetch the transaction h
 To get started, clone this repository to your local machine:
 
 ```bash
-git https://github.com/phoenixdaveth/ethwalletdata.git
+git clone https://github.com/phoenixdaveth/ethwalletdata.git
 
 cd ethereum-transaction-history
 ```
